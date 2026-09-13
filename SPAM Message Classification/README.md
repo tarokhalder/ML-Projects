@@ -27,11 +27,11 @@ Both models were tested on an unseen test split (20% of the dataset) and deliver
 
 ### 1. Multinomial Naive Bayes Model
 - **Description:** A probabilistic classification model highly suited for text feature frequencies.
-- **Accuracy:** Achieved a highly stable performance on text classification.
+- **Accuracy:** 97% . Achieved a highly stable performance on text classification.
 
 #### 📈 Naive Bayes Confusion Matrix:
 <p align="center">
-  <img src="confusion_matrix_nb.png" alt="Naive Bayes Confusion Matrix" width="450">
+  <img src="NB.jpeg" alt="Naive Bayes Confusion Matrix" width="450">
 </p>
 
 ---
@@ -42,7 +42,7 @@ Both models were tested on an unseen test split (20% of the dataset) and deliver
 
 #### 📈 Perceptron Confusion Matrix:
 <p align="center">
-  <img src="confusion_matrix_perceptron.png" alt="Perceptron Confusion Matrix" width="450">
+  <img src="per.jpeg" alt="Perceptron Confusion Matrix" width="450">
 </p>
 
 ---
