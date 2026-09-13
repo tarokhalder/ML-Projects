@@ -27,7 +27,7 @@ Both models were tested on an unseen test split (20% of the dataset) and deliver
 
 ### 1. Multinomial Naive Bayes Model
 - **Description:** A probabilistic classification model highly suited for text feature frequencies.
-- **Accuracy:** `97%` **. Achieved a highly stable performance on text classification.
+- **Accuracy:** `97%` . Achieved a highly stable performance on text classification.
 
 #### 📈 Naive Bayes Confusion Matrix:
 <p align="center">
